@@ -24,16 +24,11 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 10,
     "versionPublish": "3.12.1",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "publishPath": "file:///C:/Users/Olga/Documents/MOBIL",
-    "gitHubName": "oroffice1",
-    "gitHubPath": "mobil",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-128x125_1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x125-1.png",
     "noImageResize": ""
   },
   "pages": {
